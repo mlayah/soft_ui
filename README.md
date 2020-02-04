@@ -1,6 +1,10 @@
 # soft_ui
 
-A new Flutter project.
+A flutter project concept based on dark ui and neumorphism .No back end implemented.
+
+# Appearance
+
+<img src="soft-ui.jpg">
 
 ## Getting Started
 
